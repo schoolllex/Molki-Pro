@@ -1,9 +1,8 @@
----
 **How to play Molki Pro at home?**
 
 1 - Install Live Server extension on your Visual Studio Code
 
-2 - Clone this directory with 'git clone https://github.com/llextv/Molki-Pro.git'
+2 - Clone this directory with ```git clone https://github.com/llextv/Molki-Pro.git```
 
 3 - Move to the root of the directory
 
