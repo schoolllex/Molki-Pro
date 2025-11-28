@@ -1,8 +1,8 @@
 <?php
 header('Access-Control-Allow-Origin: *');
-$servername = "";
-$username = "";
-$password = "";
+$servername = "localhost";
+$username = "root";
+$password = "root";
 $dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
