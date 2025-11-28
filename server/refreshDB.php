@@ -5,9 +5,9 @@ if(isset($_GET['player'])){
         $player = $_GET['player'];
         $playerPoint = $_GET['playerpoint'];
 
-        $servername = "";
-        $username = "";
-        $password = "";
+        $servername = "localhost";
+        $username = "root";
+        $password = "root";
         $dbname = "";
 
         $conn = new mysqli($servername, $username, $password, $dbname);
